@@ -1,0 +1,9 @@
+{
+    "lab_sessions": "Sesiones",
+    "lab_session_id": "ID de Sesión",
+    "lab_session_lid": "LID de Sesión",
+    "lab_session_pod": "Host de Sesión",
+    "lab_session_joined": "Miembros Conectados",
+    "lab_session_path": "Ruta de Laboratorio de Sesión",
+    "lab_session_running": "Nodos en Ejecución"
+}
