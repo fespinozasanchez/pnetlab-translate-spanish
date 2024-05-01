@@ -52,4 +52,4 @@ Este proyecto se encuentra bajo la licencia MIT. Consulta el archivo [LICENSE](L
 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de mi correo electrónico: tu-correo@ejemplo.com.
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de mi correo electrónico: felipe.espinoza2019@alu.uct.cl
