@@ -21,6 +21,6 @@
     "Password is wrong": "La contraseña es incorrecta",
     "Can not get data from server": "No se pueden obtener datos del servidor",
     "error_uploadsize_limit": "Solo se permite subir menos de {data} archivos a la vez",
-    "error_md5_fail": "La verificación Md5 ha fallado. La descarga de {data} falló después de 3 intentos"
+    "error_md5_fail": "La verificación Md5 ha fallado. La descarga de {data} falló después de 3 intentos."
   }
   
