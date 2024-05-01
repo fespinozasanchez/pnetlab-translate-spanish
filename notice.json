@@ -1,0 +1,16 @@
+{
+    "notice": "Notificación",
+    "notice_id": "ID",
+    "notice_time": "Tiempo",
+    "notice_uid": "UID",
+    "notice_uname": "Nombre de Usuario",
+    "notice_fire_uid": "UID del Emisor",
+    "notice_fire_uname": "Nombre de Usuario del Emisor",
+    "notice_content": "Contenido",
+    "notice_variable": "Variable",
+    "notice_seen": "Visto",
+    "notice_level": "Nivel",
+    "notice_action": "Acción",
+    "Mark as read": "Marcar como leído",
+    "Read more": "Leer más"
+}

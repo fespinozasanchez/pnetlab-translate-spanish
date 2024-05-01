@@ -1,0 +1,15 @@
+{
+    "versions": "Versiones",
+    "version_id": "ID",
+    "version_name": "Nombre",
+    "version_status": "Estado",
+    "version_status_admin": "Estado de Administrador",
+    "version_labId": "ID de Laboratorio",
+    "version_unl": "UNL",
+    "version_path": "Ruta",
+    "version_md5": "MD5",
+    "version_time": "Tiempo",
+    "version_note": "Nota",
+    "version_feedback": "Feedback",
+    "version_node_des": "Nota de lanzamiento. Instrucciones para que tus usuarios integren tu laboratorio en Box. Este contenido no se publicará en la tienda."
+}

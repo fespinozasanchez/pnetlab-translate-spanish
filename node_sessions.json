@@ -1,0 +1,15 @@
+{
+    "node_sessions": "Tabla de Nodos",
+    "node_session_id": "ID de Sesión",
+    "node_session_nid": "ID de Nodo",
+    "node_session_lab": "Laboratorio",
+    "node_session_port": "Puerto",
+    "node_session_type": "Tipo",
+    "node_session_workspace": "Carpeta",
+    "node_session_ram": "RAM (%)",
+    "node_session_cpu": "CPU (%)",
+    "node_session_hdd": "HDD (MB)",
+    "node_session_running": "Ejecutando",
+    "node_name": "Nombre de Nodo",
+    "device_ram": "RAM de Dispositivo"
+}

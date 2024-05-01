@@ -1,0 +1,18 @@
+{
+    "user_permission": "Permiso",
+    "user_per_id": "ID de Permiso",
+    "user_per_role": "Rol de Permiso",
+    "user_per_name": "Nombre de Permiso",
+    "DELETE_FOLDER": "Eliminar Carpeta",
+    "ADD_FOLDER": "Agregar Nueva Carpeta",
+    "EDIT_FOLDER": "Renombrar o Mover Carpeta",
+    "DELETE_LAB": "Eliminar Laboratorio",
+    "ADD_LAB": "Agregar Nuevo Laboratorio",
+    "IMPORT_LAB": "Importar Laboratorio",
+    "EXPORT_LAB": "Exportar Laboratorio",
+    "MOVE_LAB": "Mover Laboratorio",
+    "CLONE_LAB": "Clonar Laboratorio",
+    "RENAME_LAB": "Renombrar Laboratorio",
+    "JOIN_LAB": "Unirse a Sesión de Laboratorio",
+    "OPEN_LAB": "Abrir Nueva Sesión de Laboratorio"
+}

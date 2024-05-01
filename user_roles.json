@@ -1,0 +1,10 @@
+{
+    "user_roles": "Roles",
+    "user_role_id": "ID de Rol",
+    "user_role_name": "Nombre de Rol",
+    "user_role_workspace": "Espacio de Trabajo de Rol",
+    "user_role_note": "Nota de Rol",
+    "user_role_ram": "Límite de RAM",
+    "user_role_cpu": "Límite de CPU",
+    "user_role_hdd": "Límite de HDD"
+}
