@@ -1,0 +1,26 @@
+{
+    "ERROR_ARRAY": "{data} debe ser un arreglo",
+    "ERROR_FORMAT": "{data} formato incorrecto",
+    "ERROR_UNDEFINE": "{data} indefinido",
+    "ERROR_DB": "Error en la base de datos",
+    "ERROR_DUPLICATE": "{data} ya existe",
+    "ERROR_AUTHEN": "{data}",
+    "ERROR_PERMISSION": "Sin permiso.\n{data}",
+    "ERROR": "{data}",
+    "error_lab_running": "El Laboratorio {data} aún está en ejecución, destruya todas las sesiones primero",
+    "error_folder_workspace": "La carpeta {folder} es el espacio de trabajo del rol {role}.",
+    "error_folder_running": "Algún Laboratorio en la carpeta {data} está en ejecución. Destruya todas las sesiones del Laboratorio primero",
+    "error_lab_timeout": "Su cuenta ha sido cerrada. Verifique su conexión a internet, actualice la hora del dispositivo e inicie sesión en un solo dispositivo a la vez. Inicie sesión de nuevo para continuar.",
+    "error_lab_permission": "No tienes permiso para usar este Laboratorio. Ve a la Tienda de Laboratorios para obtener el Laboratorio",
+    "error_lab_expired": "El tiempo del Laboratorio ha finalizado. Ve a la Tienda de Laboratorios para obtener más tiempo de uso",
+    "No License": "Sin Licencia",
+    "This Lab is for the ONLINE mode only": "Este Laboratorio es solo para el modo EN LÍNEA",
+    "You do not have access": "No tienes acceso",
+    "error_user_unactive": "No puedes iniciar sesión aún, tu cuenta será efectiva desde: {data}",
+    "error_user_expired": "No puedes iniciar sesión, tu cuenta ha caducado desde: {data}",
+    "Password is wrong": "La contraseña es incorrecta",
+    "Can not get data from server": "No se pueden obtener datos del servidor",
+    "error_uploadsize_limit": "Solo se permite subir menos de {data} archivos a la vez",
+    "error_md5_fail": "La verificación Md5 ha fallado. La descarga de {data} falló después de 3 intentos"
+  }
+  
